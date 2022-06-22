@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+}
+
+#sketchpad {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
